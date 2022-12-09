@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+
+    padding: 5px;
+}
+
+.image {
+    margin: 5px auto;
+    padding: 5px;
+
+    border-radius: 50%;
+}
+
+.text {
+    margin: 5px auto;
+    padding: 5px;
+
+    font-family: "DejaVu Serif", serif;
+}

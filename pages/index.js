@@ -1,5 +1,7 @@
-export default function Home() {
+import MainHeader from "../components/main-header"
+
+export default function Index() {
   return (
-    <h1>Hello World!</h1>
+    <MainHeader />
   )
 }
